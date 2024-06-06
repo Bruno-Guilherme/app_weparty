@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:parse_server_sdk_flutter/parse_server_sdk_flutter.dart';
 
-// AIzaSyD7WErquuINWhYjDOPMm88TZJJCs_dW_Vk
 import 'package:weparty/components/inicio/onboarding/onboarding_view.dart';
 
 import 'components/pesquisar/store_page/store_page.dart';
